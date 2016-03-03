@@ -1,0 +1,13 @@
+{
+    "files":
+    [
+        "mmio.sv"
+    ],
+    "dependencies":
+    [
+        {
+            "type": "packageurl",
+            "source": "https://raw.githubusercontent.com/KennethWilke/capi-systemverilog/master/"
+        }
+    ]
+}
