@@ -8,6 +8,10 @@
         {
             "type": "packageurl",
             "source": "https://raw.githubusercontent.com/KennethWilke/capi-systemverilog/master/"
+        },
+        {
+            "type": "packageurl",
+            "source": "https://raw.githubusercontent.com/KennethWilke/shift-register/master/"
         }
     ]
 }
